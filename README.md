@@ -1,6 +1,18 @@
 # How to explore this project
 
-This project is only use public/index.html and src/App.js
+This project is only use public/index.html and src/index.js
+
+# What you will learn
+
+    What is React.js?
+    Creating and rendering React elements
+    Introducing JSX
+    Creating a React component
+    Rendering
+    Managing state with hooks
+    Using multi-state variables
+    Fetching data
+    Deploying a React app using Netlify
 
 # Getting Started with Create React App
 
