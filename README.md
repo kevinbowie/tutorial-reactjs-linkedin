@@ -7,11 +7,11 @@ This project is only use public/index.html and src/index.js
     What is React.js?
     Creating and rendering React elements
     Introducing JSX
-    Creating a React component
+    Creating a React component (including properties)
     Rendering
-    Managing state with hooks
+    Managing state with hooks (array destructuring, useState, useEffect, useReducer)
     Using multi-state variables
-    Fetching data
+    Fetching data (safety with [] depedency)
     Deploying a React app using Netlify
 
 # Getting Started with Create React App
